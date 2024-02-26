@@ -5,10 +5,11 @@ To improve the loading time of websiite - code for LCP, FCP, TTFB etc along with
 ## Watch this video to learn how to measure web vitals
 
 <video width="100%" controls>
-    <source src="./how-to-use-code.mov" type="video/mp4">
+    <source src="./how-to-use-code.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
+![Video](./how-to-use-code.mp4)
 
 
 # Get the LCP element
