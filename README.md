@@ -4,7 +4,13 @@ To improve the loading time of websiite - code for LCP, FCP, TTFB etc along with
 
 ## Watch this video to learn how to measure web vitals
 
-![how-to-use-code](how-to-use-code.mp4)
+<iframe width="560" height="315"
+src="https://youtu.be/DIgenleyGmA" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
+
 
 
 # Get the LCP element
